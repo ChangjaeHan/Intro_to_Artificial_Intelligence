@@ -6,53 +6,58 @@ Learn basic concept of Artificial Intelligence
 3. Neural networks and search trees
 4. Game theory
 
-////////////////////////////////////////
 
-HW2: 
+
+## HW2: Probabilisitic Language Identification
 
 1. Simple practice for coding with python (counting letter)
 2. Programming practice with Bayes' rule
 
-////////////////////////////////////////
 
-HW3:
 
-Using Numpy for image projection with Eigenvalues and Eigenvectors
+## HW3: Prinicipal Component Analysis (PCA)
 
-////////////////////////////////////////
+1. Using Numpy for image projection with Eigenvalues and Eigenvectors
+2. Familiarize myself with the python packages (Numpy, Scipy, matplotlib)
 
-HW4: 
 
-Using real-world data to perform complete linkage hierarchical agglomerate clustering
 
-////////////////////////////////////////
+## HW4: Clustering
 
-HW5:
+1. Process the real-world data to perform complete linkage hierarchical agglomerate clustering
+2. Visualize the clustering process
 
-Application of Linear regression on a period of Lake-mendota Ice
 
-////////////////////////////////////////
 
-HW6:
+## HW5: Linear Regression
+
+1. Application of Linear regression on a period of Lake-mendota Ice (real world dataset)
+2. Visualize the curated data 
+
+
+
+## HW6: Neural Network
 
 Using pytorch and Fashion-MNIST for neural network
 (build model -> train model -> evaluate model -> predict labels)
 
-////////////////////////////////////////
 
-HW7:
 
-Construct Convolutional Neural Networks (CNNs) with MiniPlaces Dataset and training
+## HW7: Convolutional Neural Network (CNN)
 
-////////////////////////////////////////
+1. Apply ML to image classification
+2. Experience LeNet architecture
+3. Construct Convolutional Neural Networks (CNNs) with MiniPlaces Dataset and training
 
-HW8:
 
-Implement A* algorithm on 7-tile puzzle by using heuristic function and priority queue
 
-////////////////////////////////////////
+## HW8: A* algorithm on the 7-tile puzzle
 
-HW10:
+1. Implement A* algorithm on 7-tile puzzle by using heuristic function and priority queue
+2. Deepen understanding of state space generation.
+
+
+## HW10: Reinforcement Learning
 
 Implement Q-learning of Reinforcement Learning with OpenAI gym Environment
 
